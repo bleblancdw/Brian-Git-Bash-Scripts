@@ -22,4 +22,4 @@ xterm*|rxvt*)
 esac
 
 alias link_home='cd ~/gitHome/LINK_CODE/'
-alias link_arch='cd ~/gitHome/LINK_CODE/LINK_ARCHIVE'
+alias link_archive='cd ~/gitHome/LINK_CODE/LINK_ARCHIVE'
