@@ -7,10 +7,10 @@ export PS1='$(git branch &>/dev/null;\
                 echo "$(echo `git status` | grep "nothing to commit" > /dev/null 2>&1; \
                 if [ "$?" -eq "0" ]; then \
                         # @4 - Clean repository - nothing to commit
-                        echo "\n----'$IWhite$Time12h$Color_Off' ""'$IBlue'""\u@\h""'$Green'"$(__git_ps1 " (%s)"); \
+                        echo "\n--------'$IWhite$Time12h$Color_Off' ""'$IBlue'""\u@\h""'$Green'"$(__git_ps1 " (%s)"); \
                 else \
                 # @5 - Changes to working tree
-                echo "\n----'$IWhite$Time12h$Color_Off' ""'$IBlue'""\u@\h""'$IRed'"$(__git_ps1 " {%s}"); \
+                echo "\n--------'$IWhite$Time12h$Color_Off' ""'$IBlue'""\u@\h""'$IRed'"$(__git_ps1 " {%s}"); \
                 fi) '$Yellow$PathShort$Color_Off'\n'±' "; \
         else \
                   # @2 - Prompt when not in GIT repo
