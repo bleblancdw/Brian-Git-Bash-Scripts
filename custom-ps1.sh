@@ -25,6 +25,7 @@ xterm*|rxvt*)
     ;;
 esac
 
+#Some aliases to common directories I use and a repo I clone all the tiime.  It's easier than typing the whole thing.
 alias link_home='cd ~/gitHome/LINK_CODE/'
 alias link_archive='cd ~/gitHome/LINK_CODE/LINK_ARCHIVE'
 alias link_sg2_storefronts='cd ~/gitHome/LINK_SG2_Storefronts'
