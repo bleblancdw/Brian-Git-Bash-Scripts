@@ -28,3 +28,4 @@ esac
 alias link_home='cd ~/gitHome/LINK_CODE/'
 alias link_archive='cd ~/gitHome/LINK_CODE/LINK_ARCHIVE'
 alias link_sg2_storefronts='cd ~/gitHome/LINK_SG2_Storefronts'
+alias clone_sg='git clone https://bleblanc@bitbucket.org/demandware/link_sg2_storefronts.git'
