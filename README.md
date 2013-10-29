@@ -20,3 +20,10 @@ Future enhancements:
 
 1.  Display the number of commits you are ahead or behind
 2.  Collapse the directories if the path gets too long
+
+Notes:
+
+I'm using this on OS X and Linux.  I haven't tested it on Windows.  I know
+that I have to update the git character when I go between Slackware and
+OS X.  I haven't had time to research this issue for a root cause and resolution.
+Also, this was pieced together from some other people's code.  It's definitely not original.
