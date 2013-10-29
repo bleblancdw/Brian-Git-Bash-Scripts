@@ -3,6 +3,8 @@ to make yours look like this:
 
 ![image](http://i.imgur.com/k3X2OrX.png")
 
+[Higher resolution image](http://i.imgur.com/k3X2OrX.png")
+
 Instructions:
 
 1.  Create a directory in your home directory called 'bash_scripts'
