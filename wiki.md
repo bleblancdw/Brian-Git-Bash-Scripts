@@ -1,3 +1,8 @@
+I created these scripts because I wanted to make my bash prompt more functional.  You can use these scripts
+to make yours look like this:
+
+<img src="http://i.imgur.com/k3X2OrX.png"/>
+
 Instructions:
 
 1.  Create a directory in your home directory called 'bash_scripts'
