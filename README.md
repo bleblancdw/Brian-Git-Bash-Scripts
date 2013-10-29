@@ -1,7 +1,7 @@
 I created these scripts because I wanted to make my bash prompt more functional.  You can use these scripts
 to make yours look like this:
 
-[image](http://i.imgur.com/k3X2OrX.png")
+![image](http://i.imgur.com/k3X2OrX.png")
 
 Instructions:
 
